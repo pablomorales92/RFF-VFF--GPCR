@@ -1,4 +1,4 @@
-Code for the methods RFFGPCR and VFFGPCR, which leverage Fourier features approximations for crowdsourcing problems. Full reference:
+Code for the methods RFFGPCR and VFFGPCR, which leverage Fourier features approximations to scale up GP-based crowdsourcing models. Full reference:
 
 Morales-Álvarez P., Ruiz P., Santos-Rodríguez R., Molina R., Katsaggelos A.K.\
 Scalable and efficient learning from crowds with Gaussian processes\
