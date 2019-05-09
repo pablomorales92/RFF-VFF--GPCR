@@ -11,7 +11,7 @@ Over the last few years, multiply-annotated data has become a very popular sourc
 ## Citation
 @article{morales2019scalable,\
   title={Scalable and efficient learning from crowds with Gaussian processes},\
-  author={Morales-{\'A}lvarez, Pablo and Ruiz, Pablo and Santos-Rodr{\'\i}guez, Ra{\'u}l and Molina, Rafael and Katsaggelos, Aggelos K},\
+  author={Morales-{\\'A}lvarez, Pablo and Ruiz, Pablo and Santos-Rodr{\\'i}guez, Ra{\\'u}l and Molina, Rafael and Katsaggelos, Aggelos K},\
   journal={Information Fusion},\
   volume={52},\
   pages={110--127},\
